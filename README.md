@@ -67,7 +67,7 @@ Agar son = 0 — "Nol" deb chiqarilsin.
 
 **Vazifa:**
 Foydalanuvchidan omonat summasini kiriting.
-Agar omonat summasi:
+Agar omonat summasi: 
 
 * 100000 so‘mdan kam bo‘lsa: foiz 5%
 * 100000 - 500000 so‘m oralig‘ida bo‘lsa: foiz 7%
