@@ -1,4 +1,4 @@
-email = input("Emailingizni kiriting:")
+email = input("Emailingizni kiriting:").strip()
 
 # bu yerga char ga "@" belgisi kiritiladi chunki hamma amallar shu "@" belgisi asosida amalga oshirilmoqda.
 char  = input("Qidirayotgan belgingizni kiriting:")
